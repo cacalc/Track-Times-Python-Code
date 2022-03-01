@@ -3,4 +3,5 @@ A test repo to demonstrate Cara Cuiule's Python programming skills in a Jupityr 
 
 Data Description - The data is .csv files of multiple track events for male and female athletes. Each file has the top 1,000 performances for that event for 2019 in the state of Pennsylvania. This file cleans the data and produces box and whisker plots and histograms for every event.
 
-See 01_TrackTimes.ipynb for analysis.
+See 01_TrackTimes.ipynb for analysis. 
+https://github.com/cacalc/Track-Times-Python-Code/blob/main/01_TrackTimes.ipynb
